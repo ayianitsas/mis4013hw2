@@ -29,7 +29,7 @@
           <a class="nav-link" href="get.php">Get</a>
         </li>
            <li class="nav-item">
-          <a class="nav-link" href="get-result.php">Get Reseult</a>
+          <a class="nav-link" href="get-result.php">Get Result</a>
         </li>
       </ul>
     </div>
