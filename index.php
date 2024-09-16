@@ -6,3 +6,6 @@ include "view-header.php";
 <?php
 include "view-footer.php";
 ?>
+
+ <body style="background-color: light-blue;">
+ </body>
