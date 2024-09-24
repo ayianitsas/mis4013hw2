@@ -3,7 +3,7 @@ $pageTitle = "Get result";
 include "view-header.php";
 ?>
 <body style="background-color: indigo;">
-    <h1>Get result</h1>
+    <h1 style="color: white; font-weight: bold;">Get result</h1>
 <?php
 if (isset($_GET['my-name'])) {
 ?>
