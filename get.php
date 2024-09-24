@@ -2,7 +2,7 @@
 $pageTitle = "Get";
 include "view-header.php";
 ?>
-<body style="background-color: lightpurple;">
+<body style="background-color: indigo;">
     <h1>Get</h1>
     <form method="get" action="get.result.php">
           <input type="text" name="my-name">
