@@ -10,9 +10,9 @@ include "view-footer.php";
 
 function getDisplay() {
     if (isset($_POST['my-name'])) {
-      return "<p style="color: white; font-weight: bold;">The value sent is:</p>" . htmlspecialchars($_POST['my-name']);
+      return "<p>The value sent is:</p>" . htmlspecialchars($_POST['my-name']);
     } else {
-      return "<p style="color: white; font-weight: bold;">Nothing posted to the page.</p>";
+      return "<p>Nothing posted to the page.</p>";
     }    
 }
 ?>
