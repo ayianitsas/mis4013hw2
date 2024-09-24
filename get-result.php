@@ -19,5 +19,3 @@ include "view-footer.php";
 ?>
 </body>
 
-
-
