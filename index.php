@@ -2,13 +2,11 @@
 $pageTitle = "Home";
 include "view-header.php";
 ?>
+    <body style="background-color: light-blue;">
     <h1>Home</h1>
-
- <body style="background-color: light-blue;">
  
 
 <?php
 include "view-footer.php";
 ?>
-
- </body>
+</body>
