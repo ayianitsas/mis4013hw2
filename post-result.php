@@ -2,7 +2,7 @@
 $pageTitle = "Post result";
 include "view-header.php";
 ?>
-<body style="background-color: indigo;">
+<body style="background-color: green;">
 <h1 style="color: white; font-weight: bold;">Post result</h1>
 <?php
 echo getDisplay();
