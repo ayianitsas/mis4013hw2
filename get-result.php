@@ -12,7 +12,7 @@ if (isset($_GET['my-name'])) {
 <?php
 } else {
 ?>
-  <p style="color: white; font-weight: bold;">Nothing sent to the page.</p>
+  <p>Nothing sent to the page.</p>
 <?php 
 }
 include "view-footer.php";
