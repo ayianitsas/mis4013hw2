@@ -3,7 +3,7 @@ $pageTitle = "Post result";
 include "view-header.php";
 ?>
 <body style="background-color: indigo;">
-<h1>Post result</h1>
+<h1 style="color: white; font-weight: bold;">Post result</h1>
 <?php
 echo getDisplay();
 include "view-footer.php";
