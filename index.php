@@ -2,7 +2,7 @@
 $pageTitle = "Home";
 include "view-header.php";
 ?>
-    <body style="background-color: indigo;">
+    <body style="background-color: green;">
     <h1>Home</h1>
  
 
